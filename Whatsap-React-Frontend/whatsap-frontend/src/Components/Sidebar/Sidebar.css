@@ -48,3 +48,7 @@
     color: grey;
     padding: 10px;
 }
+
+.sidebar__chats {
+    overflow-y: scroll;
+}
